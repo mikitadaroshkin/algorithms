@@ -1,2 +1,2 @@
 # algorithms
-Algorithms and Data Structures course tasks (some of)
+Some of Algorithms and Data Structures course tasks.
